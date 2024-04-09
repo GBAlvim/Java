@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExV01/ExV01.iml" filepath="$PROJECT_DIR$/ExV01/ExV01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV02/ExV02.iml" filepath="$PROJECT_DIR$/ExV02/ExV02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV03/ExV03.iml" filepath="$PROJECT_DIR$/ExV03/ExV03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV04/ExV04.iml" filepath="$PROJECT_DIR$/ExV04/ExV04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV05/ExV05.iml" filepath="$PROJECT_DIR$/ExV05/ExV05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV06/ExV06.iml" filepath="$PROJECT_DIR$/ExV06/ExV06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV07/ExV07.iml" filepath="$PROJECT_DIR$/ExV07/ExV07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV08/ExV08.iml" filepath="$PROJECT_DIR$/ExV08/ExV08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV09/ExV09.iml" filepath="$PROJECT_DIR$/ExV09/ExV09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV10/ExV10.iml" filepath="$PROJECT_DIR$/ExV10/ExV10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV11/ExV11.iml" filepath="$PROJECT_DIR$/ExV11/ExV11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExV12/ExV12.iml" filepath="$PROJECT_DIR$/ExV12/ExV12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lista04.iml" filepath="$PROJECT_DIR$/.idea/Lista04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testearray/Testearray.iml" filepath="$PROJECT_DIR$/Testearray/Testearray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testematriz/Testematriz.iml" filepath="$PROJECT_DIR$/Testematriz/Testematriz.iml" />
+    </modules>
+  </component>
+</project>
