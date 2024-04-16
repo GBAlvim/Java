@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex1.03/Ex1.03.iml" filepath="$PROJECT_DIR$/Ex1.03/Ex1.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex10.03/Ex10.03.iml" filepath="$PROJECT_DIR$/Ex10.03/Ex10.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2.03/Ex2.03.iml" filepath="$PROJECT_DIR$/Ex2.03/Ex2.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3.03/Ex3.03.iml" filepath="$PROJECT_DIR$/Ex3.03/Ex3.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex4.03/Ex4.03.iml" filepath="$PROJECT_DIR$/Ex4.03/Ex4.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5.03/Ex5.03.iml" filepath="$PROJECT_DIR$/Ex5.03/Ex5.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex6.03/Ex6.03.iml" filepath="$PROJECT_DIR$/Ex6.03/Ex6.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex7.03/Ex7.03.iml" filepath="$PROJECT_DIR$/Ex7.03/Ex7.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex8.03/Ex8.03.iml" filepath="$PROJECT_DIR$/Ex8.03/Ex8.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex9.03/Ex9.03.iml" filepath="$PROJECT_DIR$/Ex9.03/Ex9.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista03.iml" filepath="$PROJECT_DIR$/Lista03.iml" />
+    </modules>
+  </component>
+</project>
